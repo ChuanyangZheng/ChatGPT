@@ -1,2 +1,2 @@
 # ChatGPT
-run demo
+simple demo for chatgpt python
